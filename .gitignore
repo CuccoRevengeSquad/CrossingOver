@@ -1,0 +1,17 @@
+Library/
+Temp/UnityLockfile
+Temp/
+*.suo
+*.sln
+*.csproj
+.vs/
+*.userprefs
+*.orig
+*.orig.meta
+*/obj/*
+*.rsp
+*.log
+*.bak
+*.bak.meta
+Build/
+obj/
